@@ -8,7 +8,6 @@ import android.preference.PreferenceActivity;
 import android.preference.PreferenceFragment;
 import android.widget.Button;
 import android.widget.Toast;
-
 import java.util.List;
 
 
